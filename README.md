@@ -1,7 +1,7 @@
 # BonusOpdracht
 ```
 Dit zijn
-4 toegevoegde
+4 toegevoegde  ( Gewijzigd )
 Regels
 Die moesten
 ```
