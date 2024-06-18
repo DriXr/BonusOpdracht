@@ -1,6 +1,6 @@
 # BonusOpdracht
 ```
-Dit zijn
+Dit zijn ( Gewijzigd )
 4 toegevoegde
 Regels
 Die moesten
