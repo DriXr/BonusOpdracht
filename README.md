@@ -1,4 +1,4 @@
-# BonusOpdracht remote lokaal
+# BonusOpdracht
 ```
 Dit zijn
 4 toegevoegde  ( Gewijzigd )
